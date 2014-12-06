@@ -1,5 +1,5 @@
 Package: shinyMethylData
-Version: 0.101.0
+Version: 0.101.1
 Title: Example dataset of input data for shinyMethyl
 Description: Extracted data from 369 TCGA Head and Neck Cancer DNA
         methylation samples. The extracted data serve as an example
@@ -14,6 +14,6 @@ Maintainer: Jean-Philippe Fortin <jfortin@jhsph.edu>
 License: Artistic-2.0
 Depends: R (>= 3.0.0)
 LazyData: yes
-biocViews: DNAMethylation
+biocViews: Genome, CancerData
 Url: https://github.com/Jfortin1/shinyMethylData
 Author: Jean-Philippe Fortin [cre, aut], Kasper Daniel Hansen [aut]
