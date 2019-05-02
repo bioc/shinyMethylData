@@ -1,5 +1,5 @@
 Package: shinyMethylData
-Version: 1.4.0
+Version: 1.5.0
 Title: Example dataset of input data for shinyMethyl
 Description: Extracted data from 369 TCGA Head and Neck Cancer DNA
         methylation samples. The extracted data serve as an example
